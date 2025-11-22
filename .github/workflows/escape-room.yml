@@ -1,5 +1,4 @@
 name: Escape Room Pipeline
-
 on:
   push:
     branches:
